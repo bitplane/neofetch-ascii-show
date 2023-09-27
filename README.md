@@ -2,9 +2,5 @@
 
 Just a script to display all the Neofetch logos:
 
-<iframe width="560" height="315"
-    src="https://www.youtube.com/embed/ONzEwlrs7A0"
-    frameborder="0"
-    allowfullscreen>
-</iframe>
+[![Output](http://img.youtube.com/vi/ONzEwlrs7A0/0.jpg)](https://www.youtube.com/watch?v=ONzEwlrs7A0)
 
